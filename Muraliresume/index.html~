@@ -159,12 +159,15 @@
                                         University of Dayton IT services, Ohio, USA— Software Development Assistant
                                     </h5><span class="label label-info">(August 2017- May2018)</span>
                                     <p>
-                                       	Exposure to Software Development and Automation using Agile software development life cycle methodology.
-				       	Developed Responsive web pages using HTML5, CSS3, Bootstrap, JavaScript and jQuery with emphasis on cross browser functionality.
-				       	Creation and maintenance of data using Oracle database. JDBC for database connectivity with Oracle.
-				       	Designed the back-end processing of the form data using MVC framework.
-				       	Using RESTful services, sending HTTP requests to the Server, retrieving the JSON format data, and parsing it.
-    
+                                      	Exposure to Software Development and Automation using Agile software development life cycle methodology.</p>
+					<p>
+				      	Proficiency in multiple programming languages including Java, C, C++, C#, JavaScript, HTML, CSS and PHP.</p>
+					<p>
+				      	Creation and maintenance of data using Oracle database. JDBC for database connectivity with Oracle.</p>
+					<p>
+				      	Knowledge in all phases of Agile SDLC i.e. Planning, Estimating and Retrospective.</p>
+					<p>
+				      	In-depth knowledge of Object Oriented Design and Design Patterns in Java.
                                     </p>
                                 </li>
                                 <li>
@@ -172,10 +175,14 @@
                                         Caliber Technologies Private Ltd. , India— Application developer Intern
                                     </h5><span class="label label-info">(Dec 2015 – May 2016)</span>
                                     <p>
-                                        	Involved in developing, enhancing and redesigning new and existing web-based applications focusing on reporting, harnesses and API development.
-						Developed the front-end of the web-application using PHP, JavaScript and jQuery. 
-						Developed the back-end of the web-application using MySQL.
-						Provisioned and configured a Linux host, and deployed the web application on the host.
+                                        	Involved in developing, enhancing and redesigning new and existing web-based applications focusing on reporting, harnesses and API development.</p>
+					<p>
+						Developed the front-end of the web-application using PHP, JavaScript and jQuery. </p>
+					<p>
+						Developed the back-end of the web-application using MySQL.</p>
+					<p>
+						Provisioned and configured a Linux host, and deployed the web application on the host.</p>
+					<p>
 						Developed website mock-ups to ensure quality control and client satisfaction before project deployment phase.
 
                                     </p>
@@ -211,7 +218,8 @@
 				        Flyer Blog Web Application 
  				   </h5><span class="label label-success">March 2017-May 2017 </span>
 				   <p>
-                                      	Developed MyBlog web application using PHP and CSS. Used MySQL for database
+                                      	Developed MyBlog web application using PHP and CSS. Used MySQL for database</p>
+					<p>
 				      	Secured it from threats such as Buffer over Flow, Cross Site Scripting, Cross Site Request Forging, Data Injection and Sensitive Data Exposure.
 
                                    </p>	
@@ -229,9 +237,9 @@
 				        Movie Hunt Android Application 
  				   </h5><span class="label label-success">June 2016 – Aug 2016</span>
 			           <p>
-                                      	Implemented Movie Hunt Android Application using java in Android Studio.
-				      	It sorts the movies with highest to lowest rating and provides information about each movie with appropriate links to book tickets if available in theaters.
-
+                                      	Implemented Movie Hunt Android Application using java in Android Studio.</p>
+				      <p>
+						It sorts the movies with highest to lowest rating and provides information about each movie with appropriate links to book tickets if available in theaters.
                                    </p>
 				</li>
 				<li>
@@ -239,9 +247,9 @@
 				        Mini Facebook Database
  				   </h5><span class="label label-success">May 2017 – June 2017 </span>
 				   <p>
-                                      	Developed MyBlog web application using PHP and CSS. Used MySQL for database
+                                      	Developed MyBlog web application using PHP and CSS. Used MySQL for database.</p>
+					<p>
 				      	Secured it from threats such as Buffer over Flow, Cross Site Scripting, Cross Site Request Forging, Data Injection and Sensitive Data Exposure.
-
                                    </p>	
 				</li>
                             </ul>
